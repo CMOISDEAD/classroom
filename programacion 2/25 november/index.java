@@ -67,7 +67,7 @@ class index {
     double[] matrix = new double[aviones.length-1];
     
     for (int i = 0; i< aviones.length; i++) {
-      
+      // @TODO : Finish this shit.
     }
 
     return matrix;
