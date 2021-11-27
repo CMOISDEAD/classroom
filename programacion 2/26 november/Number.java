@@ -1,4 +1,3 @@
-
 public class Number {
 	
 	public static int generateRandomIntegerNumberBetween(int start, int upTo) {
@@ -16,5 +15,4 @@ public class Number {
 	public static double generateRandomDoubleNumberUpTo(double start, double upTo) {
 		return Number.generateRandomDoubleNumberUpTo(0.0, upTo);
 	}
-
 }
